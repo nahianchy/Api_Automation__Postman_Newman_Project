@@ -1,4 +1,4 @@
-# Api-Automation-Dmoney
+# Api-Automation-Postman_Newman_Project
 
 ## Tools and technology used
  - Postman
